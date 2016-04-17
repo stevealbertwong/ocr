@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "f4b43c36ef386c6015f38388d7d1f94a"
+build_time: [504342684, 649722000]
+inputs:
+  "/Users/SteveAndrewWong/Desktop/Andi_Sullivan/[OCR]ServerVersion.com/iOS/OcrSdkDemo/Sources/ViewController.swift": [504174032, 0]
